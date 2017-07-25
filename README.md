@@ -1,4 +1,8 @@
 # WeatherStation
+This application draws data from a sqlite3 database on a raspberry pi 3 that is collecting weather data on the campus of Clover Park Technical College and displays that data on webpage.
+
+It is still a work in progress. More information will be added to this page in the future to let club members know how to contribute.
+For now, if you have any questions that are not answered here, message one of the club officers on canvas, or in the club discord.
 
 ## How To Run
 
