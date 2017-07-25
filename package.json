@@ -1,7 +1,7 @@
 {
   "name": "weatherstation",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "This application draws data from a sqlite3 database on a raspberry pi 3 that is collecting weather data on the campus of Clover Park Technical College and displays that data on webpage.",
   "main": "app.js",
   "dependencies": {
     "sqlite3": "^3.1.8"
